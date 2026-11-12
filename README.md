@@ -1,13 +1,12 @@
 # Pruebas Unitarias con JUnit - Actividad 08
 
-## Datos del Alumno
 * **Nombre:** Moisés Gerónimo Torres González
 * **Matrícula:** S25018144
 * **Experiencia Educativa:** Diseño y Programación Orientada a Objetos
 
 ---
 
-## Detalle de las Pruebas (`ArrayOperationsTest`)
+## Detalle de las Pruebas
 
 ### 1. `numZero(int[] x)`
 Cuenta la cantidad de ceros en un arreglo. El método contiene un error lógico al iniciar el ciclo `for` en el índice `1` en lugar de `0`.
